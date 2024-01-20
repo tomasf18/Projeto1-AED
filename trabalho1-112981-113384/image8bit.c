@@ -430,7 +430,7 @@ int ImageValidRect(Image img, int x, int y, int w, int h) { ///
 
   /* Verificar se os limites estão dentro da imagem */  
   if (x >= 0 && y >= 0 && x + w < imgWidth && y + h < imgHeight) {
-  //if (ImageValidPos(img, x, y) && ImageValidPos(img, x, y+h) && ImageValidPos(img, x+w, y) && ImageValidPos(img, x+w, y+w)) {
+  //if (ImageValidPos(img, x, y) && ImageValidPos(img, x, y+h) && ImageValidPos(img, x+w, y) && ImageValidPos(img, x+w, y+h)) {
     /* Se a condição se verificar, significa que o píxel está contido na imagem */
     return 1; 
   }
