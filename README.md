@@ -1,8 +1,9 @@
 # Trabalho Prático - TAD image8bit
 
 ## Departamento de Electrónica, Telecomunicações e Informática da Universidade de Aveiro
-Curso: Algoritmos e Estruturas de Dados  
-Ano Letivo: 2023/2024 — 1º Semestre (2º ano, Licenciatura em Engenharia Informática)
+Curso: Licenciatura em Engenharia Informática
+Cadeira: Algoritmos e Estruturas de Dados  
+Ano Letivo: 2023/2024 — 1º ano, 1º Semestre  
 
 ## Objetivos
 
