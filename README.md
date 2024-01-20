@@ -3,7 +3,6 @@
 ## Departamento de Electrónica, Telecomunicações e Informática da Universidade de Aveiro
 Curso: Algoritmos e Estruturas de Dados  
 Ano Letivo: 2023/2024 — 1º Semestre (2º ano, Licenciatura em Engenharia Informática)
-Data limite de entrega: 24 de novembro de 2023
 
 ## Objetivos
 
