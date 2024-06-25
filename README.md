@@ -4,6 +4,7 @@
 Curso: Licenciatura em Engenharia Informática
 Cadeira: Algoritmos e Estruturas de Dados  
 Ano Letivo: 2023/2024 — 1º ano, 1º Semestre  
+Nota: 17.3
 
 ## Objetivos
 
