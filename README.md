@@ -1,10 +1,10 @@
 # Trabalho Prático - TAD image8bit
 
 ## Departamento de Electrónica, Telecomunicações e Informática da Universidade de Aveiro
-Curso: Licenciatura em Engenharia Informática
+Curso: Licenciatura em Engenharia Informática  
 Cadeira: Algoritmos e Estruturas de Dados  
 Ano Letivo: 2023/2024 — 1º ano, 1º Semestre  
-`Nota: 17.3`
+`Nota: 17.3`  
 
 ## Objetivos
 
